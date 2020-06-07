@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">Blog 365</title>
+    <subtitle type="html"></subtitle>
+    <updated>2020-06-07T22:25:50&#43;08:00</updated>
+    <id>https://rsh365.github.io/rsh365/</id>
+    <link rel="alternate" type="text/html" href="https://rsh365.github.io/rsh365/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://rsh365.github.io/rsh365/atom.xml" />
+    <author>
+            <name>Chen wen qi</name>
+            <uri>https://rsh365.github.io/</uri>
+            
+                <email>Rsh@163.com</email>
+            </author>
+    <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights>
+    <generator uri="https://gohugo.io/" version="0.72.0">Hugo</generator>
+</feed>
